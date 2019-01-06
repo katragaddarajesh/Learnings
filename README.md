@@ -12,6 +12,8 @@ Ex: See the first 5 minutes of below video https://www.youtube.com/watch?v=RLtyh
 https://docs.npmjs.com/files/folders.html
 -->
 
+ Javascript Reference
+
 <!-- Javascript learnings
 Top Eight Javascfript Objecfs and Array Functions 
 https://www.youtube.com/watch?v=Xal65C7pxVM
