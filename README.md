@@ -59,6 +59,19 @@ if (~foo.indexOf("w")) {
   // item not in list
 }
 This works because if a value does not exist the return is -1 for historical reasons. 
+
+7) Prototype:
+ All JavaScript objects inherit properties and methods from a prototype.
+ The JavaScript prototype property allows you to add new properties to object constructors:
+ function Person(first, last, age, eyecolor) {
+  this.firstName = first;
+  this.lastName = last;
+  this.age = age;
+  this.eyeColor = eyecolor;
+}
+
+Person.prototype.nationality = "English";
+ Documentation: https://www.w3schools.com/js/js_object_prototypes.asp
 Good knowledge on interview questions--https://www.toptal.com/javascript/interview-questions
 -->
 
